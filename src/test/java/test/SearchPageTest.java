@@ -20,6 +20,6 @@ public void setup()
 @Test
 	public void firstNameSearch()
 	{
-		s.search("Robert");
+		s.search("Robert 123");
 	}
 }

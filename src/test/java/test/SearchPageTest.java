@@ -23,7 +23,7 @@ public void setup()
 		s.search("Robert");
 	}
 @Test
-public void firstNameSearch2()
+public void ffirstNameSearch2()
 {
 	s.search("Meesha");
 }

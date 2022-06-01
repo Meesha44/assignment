@@ -27,4 +27,10 @@ public void firstNameSearch2()
 {
 	s.search("Meesha");
 }
+
+@Test
+public void firstNameSearch3()
+{
+	s.search("mkk");
+}
 }

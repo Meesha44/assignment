@@ -29,7 +29,7 @@ public void ffirstNameSearch2()
 }
 
 @Test
-public void firstNameSearch3()
+public void tfirstNameSearch3()
 {
 	s.search("mkk");
 }

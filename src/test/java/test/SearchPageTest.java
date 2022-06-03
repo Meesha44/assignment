@@ -31,6 +31,6 @@ public void ffirstNameSearch2()
 @Test
 public void tfirstNameSearch5()
 {
-	s.search("mkgkk");
+	s.search("mkgkdfk");
 }
 }
